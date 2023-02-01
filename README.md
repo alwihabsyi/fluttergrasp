@@ -1,6 +1,6 @@
 # fluttergrasp
 
-A new Flutter project.
+this is my first Flutter project.
 
 ## Getting Started
 
